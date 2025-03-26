@@ -24,13 +24,19 @@ body{
 h1{
     color: #252525;
     font-size: 64px;
+    width: 610px;
+    margin-bottom: 10px;
 }
 
 h2{
     color: #252525CC;
     opacity: 80%;
     font-size: 26px;
+    width: 607px;
+    margin-top: 5px;
 }
+   
+    
 
 button{
 
