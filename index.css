@@ -1,0 +1,55 @@
+body{
+
+    font-family: "Nunito", sans-serif;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: 0;
+
+}
+
+#tamañoPagina{
+    
+    width: 1440px;
+    height: 1139px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+
+h1{
+    color: #252525;
+    font-size: 64px;
+}
+
+h2{
+    color: #252525CC;
+    opacity: 80%;
+    font-size: 26px;
+}
+
+button{
+
+    background-color: #252525;
+    color: white;
+    width: 158px;
+    height: 54px;
+    border-radius: 16px;
+    gap: 10px;
+}
+
+#frame1{
+    gap: 16px;
+    margin-top: 60px;
+    width: 1312px;
+    height: 288px;
+}
+
+#frame2{
+    gap: 16px;
+    margin-top: 10px;
+}
